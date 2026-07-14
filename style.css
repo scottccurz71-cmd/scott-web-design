@@ -53,4 +53,7 @@ p {
     padding: 15px 30px;
     font-size: 18px;
     border-radius: 8px;
+}.card img {
+    width: 90%;
+    border-radius: 10px;
 }
